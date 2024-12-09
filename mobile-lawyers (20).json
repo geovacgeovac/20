@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Law Firm A",
+    "description": "Specializing in family and corporate law.",
+    "address": "123 Main Street, Toronto, ON, M5H 2N2",
+    "longitude": -79.3832,
+    "latitude": 43.6532,
+    "telephone": "416-123-4567",
+    "email": "info@lawfirma.com",
+    "website": "https://lawfirma.com",
+    "image": "https://via.placeholder.com/600",
+    "tags": ["family", "corporate"]
+  },
+  {
+    "id": 2,
+    "name": "Legal Experts Inc.",
+    "description": "Experts in wills and estates.",
+    "address": "456 Queen Street, Ottawa, ON, K1P 5J2",
+    "longitude": -75.6972,
+    "latitude": 45.4215,
+    "telephone": "613-987-6543",
+    "email": "contact@legalexperts.com",
+    "website": "https://legalexperts.com",
+    "image": "https://via.placeholder.com/600",
+    "tags": ["wills", "estates"]
+  },
+  {
+    "id": 3,
+    "name": "Downtown Legal Services",
+    "description": "Affordable legal services for all.",
+    "address": "789 King Street, Vancouver, BC, V6B 1E2",
+    "longitude": -123.1216,
+    "latitude": 49.2827,
+    "telephone": "604-456-7890",
+    "email": "help@downtownlegal.com",
+    "website": "https://downtownlegal.com",
+    "image": "https://via.placeholder.com/600",
+    "tags": ["affordable", "general"]
+  }
+]
